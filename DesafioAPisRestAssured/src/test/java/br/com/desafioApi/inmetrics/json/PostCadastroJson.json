@@ -1,0 +1,12 @@
+{
+  "admissao": "$admissao",
+  "cargo": "$cargo",
+  "comissao": "$comissao",
+  "cpf": "$cpf",
+  "departamentoId": $departamentoId,
+  "nome": "$nome",
+  "salario": "$salario",
+  "sexo": "$sexo",
+  "tipoContratacao": "$tipoContratacao"
+}
+
